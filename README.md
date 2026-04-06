@@ -84,7 +84,7 @@ O arquivo `empresas.xlsx` deve conter uma coluna chamada **Empresa** com os nome
 python main.py
 ```
 
-3. Aguarde o processo — o navegador abrirá e fará as buscas automaticamente
+3. Aguarde o processo, o navegador abrirá e fará as buscas automaticamente
 4. Ao finalizar, o arquivo `empresas_com_telefone.xlsx` será gerado com os telefones encontrados
 
 ---
