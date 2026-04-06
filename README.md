@@ -1,6 +1,8 @@
 # 📞 Google Maps Phone Scraper
 
 Automação para extração de telefones comerciais diretamente do Google Maps. O script lê uma planilha Excel com nomes de empresas, pesquisa cada uma no Maps e extrai o número de telefone automaticamente, exportando os resultados em uma nova planilha.
+A tabela tem dados de empresas que tem os dados disponiveis no google maps.
+O intuito do projeto é apenas para adquirir conhecimento e agilizar processos.
 
 ---
 
@@ -27,8 +29,8 @@ Automação para extração de telefones comerciais diretamente do Google Maps. 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/google-maps-phone-scraper.git
-cd google-maps-phone-scraper
+git clone https://github.com/JulioFranz/GoogleMaps_PhoneScraper.git
+cd GoogleMaps_PhoneScraper
 ```
 
 ### 2. Instale as dependências
