@@ -131,5 +131,6 @@ python main.py
   <sub>
     Built by <a href="https://github.com/JulioFranz"><strong>Julio Franz</strong></a>
   </sub>
+   <a href="https://github.com/mj01px"><strong>Mauro Junior</strong></a>
   <br/><br/>
 </div>
