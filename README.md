@@ -69,9 +69,9 @@ O arquivo `empresas.xlsx` deve conter uma coluna chamada **Empresa** com os nome
 
 | Empresa |
 |---------|
-| SUSTENTA ALIMENTOS LTDA |
-| VALE GRANDE INDUSTRIA E COMERCIO DE ALIMENTOS S/A |
-| NUTRIX ALIMENTOS |
+| FACEBOOK |
+| GOOGLE |
+| GITHUB |
 
 ---
 
