@@ -129,8 +129,8 @@ python main.py
 <div align="center">
   <br/>
   <sub>
-    Built by <a href="https://github.com/JulioFranz"><strong>Julio Franz</strong> and </a> 
-    <a href="https://github.com/mj01px"><strong>Mauro Junior</strong></a>
+    Built by <a href="https://github.com/JulioFranz"><strong>Julio Franz</strong></a> and
+    <a href="https://github.com/mj01px"><strong> Mauro Junior</strong></a>
   </sub>
    
   <br/><br/>
